@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../django/.idea/django.iml" filepath="$PROJECT_DIR$/../django/.idea/django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django-rest-framework-master/.idea/django-rest-framework-master.iml" filepath="$PROJECT_DIR$/../django-rest-framework-master/.idea/django-rest-framework-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prometheus_api.iml" filepath="$PROJECT_DIR$/.idea/prometheus_api.iml" />
+    </modules>
+  </component>
+</project>
